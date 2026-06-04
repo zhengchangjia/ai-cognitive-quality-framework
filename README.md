@@ -1,4 +1,3 @@
----
 # AI Cognitive Quality Framework (ACQF)
 
 **一个用于评估AI生成分析报告质量的认知维度框架。**
